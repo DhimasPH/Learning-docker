@@ -1,2 +1,2 @@
 # Learning Docker
-Learning set up docke
+Learning set up docker
