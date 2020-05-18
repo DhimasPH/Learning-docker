@@ -1,2 +1,2 @@
 # Learning Docker
-Learning set up docker
+Learn set up server using docker for PHP
